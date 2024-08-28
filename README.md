@@ -15,6 +15,17 @@ Restart
 sudo shutdown -r 0
 ```
 
+### Check Python Version
+
+```
+python --version
+```
+
+### Update Python to the latest version
+```
+Update Python
+```
+
 ### Install Python
 
 ```
