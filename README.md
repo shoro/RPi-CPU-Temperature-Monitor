@@ -39,6 +39,12 @@ Install Python
 git clone https://github.com/shoro/RPi-CpuMon
 ```
 
+### Run downloaded script
+
+```
+sudo python RPi-CpuMon/cpumon.py
+```
+
 ### Create file
 
 ```
