@@ -1,5 +1,20 @@
 # RPi CPU Temperature Monitor
 
+### Update & Upgrade your Raspberry Pi <em>(Optional)</em>
+
+Update:
+```
+sudo apt update
+```
+Upgrade:
+```
+sudo apt upgrade -y
+```
+Restart
+```
+sudo shutdown -r 0
+```
+
 ### Install Python
 
 ```
