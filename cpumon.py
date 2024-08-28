@@ -1,4 +1,4 @@
-#  python monitor_cpu.py
+#  python cpumon.py
 
 import os
 import time
