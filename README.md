@@ -1,1 +1,1 @@
-# RPi-fan-control-python-script
+# RPi CPU Temperature Monitor
