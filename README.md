@@ -2,15 +2,15 @@
 
 # <em>(Optional)</em> - Update, Upgrade and Restart your Raspberry Pi 
 
-Update:
+### Update:
 ```
 sudo apt update
 ```
-Upgrade:
+### Upgrade:
 ```
 sudo apt upgrade -y
 ```
-Restart
+### Restart
 ```
 sudo shutdown -r 0
 ```
