@@ -1,50 +1,5 @@
 # RPi CPU Temperature Monitor
 
-## 1. <em>(Optional)</em> - Update, Upgrade and Restart your Raspberry Pi 
-
-### Update:
-```
-sudo apt update
-```
-### Upgrade:
-```
-sudo apt upgrade -y
-```
-### Restart
-```
-sudo shutdown -r 0
-```
-
-### Check Python Version
-
-```
-python --version
-```
-
-### Update Python to the latest version
-```
-Update Python
-```
-
-### Install Python
-
-```
-Install Python
-```
-
-## 2. Download or Create script
-
-### Download script
-```
-git clone https://github.com/shoro/RPi-CpuMon
-```
-
-### Run downloaded script
-
-```
-sudo python RPi-CpuMon/cpumon.py
-```
-
 ### Create file
 
 ```
