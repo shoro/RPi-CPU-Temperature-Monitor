@@ -34,3 +34,7 @@ CTRL+X -> Y -> ENTER
 ```
 sudo python cpumon.py
 ```
+
+### Stop the script
+
+CTRL+C
