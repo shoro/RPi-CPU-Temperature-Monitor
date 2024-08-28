@@ -1,6 +1,6 @@
 # RPi CPU Temperature Monitor
 
-### <em>(Optional)</em> - Update, Upgrade and Restart your Raspberry Pi 
+# <em>(Optional)</em> - Update, Upgrade and Restart your Raspberry Pi 
 
 Update:
 ```
