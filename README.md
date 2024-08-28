@@ -36,7 +36,7 @@ Install Python
 
 ### Download script
 ```
-git clone https://github.com/mklements/OLED_Stats.git
+git clone https://github.com/shoro/RPi-CPU-Temperature-Monitor
 ```
 
 ### Create file
