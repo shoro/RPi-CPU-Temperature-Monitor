@@ -1,6 +1,6 @@
 # RPi CPU Temperature Monitor
 
-## <em>(Optional)</em> - Update, Upgrade and Restart your Raspberry Pi 
+## 1. <em>(Optional)</em> - Update, Upgrade and Restart your Raspberry Pi 
 
 ### Update:
 ```
@@ -32,7 +32,7 @@ Update Python
 Install Python
 ```
 
-## Download or Create script
+## 2. Download or Create script
 
 ### Download script
 ```
