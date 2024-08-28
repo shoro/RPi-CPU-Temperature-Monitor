@@ -36,7 +36,7 @@ Install Python
 
 ### Download script
 ```
-Download script
+wget https://github.com/shoro/RPi-CPU-Temperature-Monitor/blob/f30fbe38fd3c6946d78708d274f1f09b4a3db68b/cpumon.py
 ```
 
 ### Create file
